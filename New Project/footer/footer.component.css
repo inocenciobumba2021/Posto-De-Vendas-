@@ -1,0 +1,53 @@
+
+.rodape{
+    margin-top: -85px;
+    height: 20vh;
+
+    width: 58%;
+
+}
+.footer{
+	display: flex;
+
+}
+.footer .navegation{
+	width: 16%;
+	margin-top: 20px;
+	margin-right: 8px;
+	margin-left: 15px;
+	border: #4b79a1 solid 1px;
+	color: #fff;
+	height: 8vh;
+	font-size: 14px;
+	cursor: pointer;
+	border-radius: 10px;
+	font-weight: 300;
+}
+/*
+.antes{
+	margin-left: 15px;
+	background-color: #fff;
+	height: 8vh;
+	width: 16%;
+	border-radius: 10px;
+	border: #4b79a1 solid 1px;
+	margin-top: 20px;
+}
+.antes img{
+	width: 60px;
+	text-align: center;
+}
+.prox{
+	margin-left: 15px;
+	background-color: #fff;
+	height: 8vh;
+	width: 16%;
+	border-radius: 10px;
+	border: #4b79a1 solid 1px;
+	margin-top: 20px;
+}
+
+.prox img{
+	width: 60px;
+	float: right;
+}*/
